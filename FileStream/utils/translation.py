@@ -53,8 +53,9 @@ class BUTTON(object):
             InlineKeyboardButton('🌨Support', url=f'https://t.me/{Telegram.UPDATES_CHANNEL}'),
             InlineKeyboardButton('⛅️Updates', url='https://t.me/MalluTorentzTG')]
         ],
+        [
             InlineKeyboardButton('❗️Help', callback_data='help'),
-            InlineKeyboardButton('📦About', callback_data='about')]
+            InlineKeyboardButton('📦About', callback_data='about')
         ],
             [InlineKeyboardButton("🧑‍💻 Developer", url=f'https://t.me/chiyaan_dhruv')]
         ]
