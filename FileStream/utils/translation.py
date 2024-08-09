@@ -4,28 +4,28 @@ from FileStream.config import Telegram
 class LANG(object):
 
     START_TEXT = """
-<b>👋 Hᴇʏ, </b>{}\n 
-<b>I'ᴍ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇs sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴀs ᴡᴇʟʟ ᴅɪʀᴇᴄᴛ ʟɪɴᴋs ɢᴇɴᴇʀᴀᴛᴏʀ</b>\n
-<b>ᴡᴏʀᴋɪɴɢ ᴏɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ</b>\n
-● sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴍᴇᴅɪᴀ/ᴅᴏᴄᴜᴍᴇɴᴛs/ᴠɪᴅᴇᴏ ᴇᴛᴄ.. ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ
-● ᴍʏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʟɪɴᴋ ᴡɪʟʟ sᴜᴘᴘᴏʀᴛ ʏᴏᴜʀ ʙʀᴏᴡsᴇʀ (ɢᴏᴏɢʟᴇ ᴄʜʀᴏᴍᴇ, ʙʀᴀᴠᴇ, ᴏᴘᴇʀᴀ, sᴀғᴀʀɪ)
-● ɪ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ʜɪɢʜ sᴘᴇᴇᴅ ᴍᴇᴅɪᴀ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ
-● ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴅɪʀᴇᴄᴛ sᴛʀᴇᴀᴍ (ᴡᴀᴛᴄʜɪɴɢ ᴠɪᴅᴇᴏ ᴡɪᴛʜᴏᴜᴛ ᴅᴏᴡɴʟᴏᴀᴅ) ʟɪɴᴋ
+<b>👋 𝖧𝖾𝗒, </b>{}\n 
+<i>send me a file or add me as an admin to any channel to instantly generate file links.\n
 
-ɴʙ:🔞 ᴅᴏɴᴛ ғᴏʀᴡᴀʀᴅ ᴘᴏʀɴ ғɪʟᴇs ᴛᴏ ᴍᴇ, ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙ ᴀ ɴ
+Add me to your channel to instantly generate links for any downloadable media. Once received, I will automatically attach appropriate buttons to the post containing the URL.</i>
 
-ᴘʟᴇᴀsᴇ ᴜsᴇ & sʜᴀʀᴇ ᴍᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ❤️"""
+<blockquote>Powered by @MalluTorentzTG</blockquote>"""
 
     HELP_TEXT = """
-<b>- ᴀᴅᴅ ᴍᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴏɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ</b>
-<b>- sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅᴏᴄᴜᴍᴇɴᴛ ᴏʀ ᴍᴇᴅɪᴀ</b>
-<b>- ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ sᴛʀᴇᴀᴍᴀʙʟᴇ ʟɪɴᴋ</b>\n
-<b>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.</b>"""
+<i>- 𝖠𝖽𝖽 𝖬𝖾 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇 𝖮𝗇 𝖳𝗁𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅
+   - 𝖲𝖾𝗇𝖽 𝖬𝖾 𝖠𝗇𝗒 𝖣𝗈𝖼𝗎𝗆𝖾𝗇𝗍 𝖮𝗋 𝖬𝖾𝖽𝗂𝖺
+   - 𝖨 𝖶𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖲𝗍𝗋𝖾𝖺𝗆𝖺𝖻𝗅𝖾 𝖫𝗂𝗇𝗄</i>\n
+<blockquote>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ. ⚠️</blockquote>"""
 
     ABOUT_TEXT = """
-<b>⚜ ᴍʏ ɴᴀᴍᴇ : {}</b>\n
-<b>✦ ᴠᴇʀsɪᴏɴ : {}</b>
-<b>✦ ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ : 06-January-2024</b>
+🤖 𝖬𝗒 𝗇𝖺𝗆𝖾: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗋𝖾𝖺𝗆 𝖡𝗈𝗍 (https://t.me/MalluFileStreamRoBot)
+📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒: 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 (https://t.me/TGFilmRobot)
+🚀 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖢𝗅𝗈𝗎𝖽𝖿𝗅𝖺𝗋𝖾 (https://t.me/TGFilmRobot)
+📝 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾: 𝖯𝗒𝗍𝗁𝗈𝗇3 (https://t.me/TGFilmRobot)
+💾 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾: 𝖬𝗈𝗇𝗀𝗈𝖣𝖡 (https://t.me/TGFilmRobot)
+🧑‍💻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋: 𓊈Ｄｒ⚕️ ᴀᴅɪᴛʏᴀ𓊉 (https://t.me/Chiyaan_Dhruv)
+
+<b>Powered and Maintained By @MalluTorentzTG</b>
 """
 
     STREAM_TEXT = """
@@ -50,28 +50,24 @@ class LANG(object):
 class BUTTON(object):
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
-            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
+            InlineKeyboardButton('🌨Support', url=f'https://t.me/{Telegram.UPDATES_CHANNEL}'),
+            InlineKeyboardButton('⛅️Updates', url='https://t.me/MalluTorentzTG')]
         ],
-            [InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
+            InlineKeyboardButton('❗️Help', callback_data='help'),
+            InlineKeyboardButton('📦About', callback_data='about')]
+        ],
+            [InlineKeyboardButton("🧑‍💻 Developer", url=f'https://t.me/chiyaan_dhruv')]
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
-            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close'),
-        ],
-            [InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
-        ]
+            InlineKeyboardButton('🢇 Back', callback_data='home'),
+            InlineKeyboardButton('Close ✘', callback_data='close'),
+        ]]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close'),
-        ],
-            [InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url=f'https://t.me/{Telegram.UPDATES_CHANNEL}')]
-        ]
+            InlineKeyboardButton('🢇 Back', callback_data='home'),
+            InlineKeyboardButton('Close ✘', callback_data='close'),
+        ]]
     )
