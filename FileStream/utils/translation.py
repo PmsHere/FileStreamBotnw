@@ -18,14 +18,14 @@ Add me to your channel to instantly generate links for any downloadable media. O
 <blockquote>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ. ⚠️</blockquote>"""
 
     ABOUT_TEXT = """
-<a href="https://t.me/MalluFileStreamRoBot">🤖 𝖬𝗒 𝗇𝖺𝗆𝖾: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗋𝖾𝖺𝗆 𝖡𝗈𝗍</a>
+<b><a href="https://t.me/MalluFileStreamRoBot">🤖 𝖬𝗒 𝗇𝖺𝗆𝖾: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗋𝖾𝖺𝗆 𝖡𝗈𝗍</a>
 <a href="https://t.me/TGFilmRobot">📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒: 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</a>
 <a href="https://t.me/TGFilmRobot">🚀 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖢𝗅𝗈𝗎𝖽𝖿𝗅𝖺𝗋𝖾</a>
 <a href="https://t.me/TGFilmRobot">📝 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾: 𝖯𝗒𝗍𝗁𝗈𝗇3</a>
 <a href="https://t.me/TGFilmRobot">💾 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾: 𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
-<a href="https://t.me/Chiyaan_Dhruv">🧑‍💻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋: 𓊈Ｄｒ⚕️ ᴀᴅɪᴛʏᴀ𓊉 </a>
+<a href="https://t.me/Chiyaan_Dhruv">🧑‍💻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋: 𓊈Ｄｒ⚕️ ᴀᴅɪᴛʏᴀ𓊉 </a></b>
 
-<b>Powered and Maintained By @MalluTorentzTG</b>
+<b><i>Powered and Maintained By @MalluTorentzTG</i></b>
 """
 
     STREAM_TEXT = """
