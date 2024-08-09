@@ -13,17 +13,17 @@ Add me to your channel to instantly generate links for any downloadable media. O
 
     HELP_TEXT = """
 <i>- 𝖠𝖽𝖽 𝖬𝖾 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇 𝖮𝗇 𝖳𝗁𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅
-   - 𝖲𝖾𝗇𝖽 𝖬𝖾 𝖠𝗇𝗒 𝖣𝗈𝖼𝗎𝗆𝖾𝗇𝗍 𝖮𝗋 𝖬𝖾𝖽𝗂𝖺
-   - 𝖨 𝖶𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖲𝗍𝗋𝖾𝖺𝗆𝖺𝖻𝗅𝖾 𝖫𝗂𝗇𝗄</i>\n
+- 𝖲𝖾𝗇𝖽 𝖬𝖾 𝖠𝗇𝗒 𝖣𝗈𝖼𝗎𝗆𝖾𝗇𝗍 𝖮𝗋 𝖬𝖾𝖽𝗂𝖺
+- 𝖨 𝖶𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖲𝗍𝗋𝖾𝖺𝗆𝖺𝖻𝗅𝖾 𝖫𝗂𝗇𝗄</i>\n
 <blockquote>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ. ⚠️</blockquote>"""
 
     ABOUT_TEXT = """
-🤖 𝖬𝗒 𝗇𝖺𝗆𝖾: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗋𝖾𝖺𝗆 𝖡𝗈𝗍 (https://t.me/MalluFileStreamRoBot)
-📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒: 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 (https://t.me/TGFilmRobot)
-🚀 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖢𝗅𝗈𝗎𝖽𝖿𝗅𝖺𝗋𝖾 (https://t.me/TGFilmRobot)
-📝 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾: 𝖯𝗒𝗍𝗁𝗈𝗇3 (https://t.me/TGFilmRobot)
-💾 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾: 𝖬𝗈𝗇𝗀𝗈𝖣𝖡 (https://t.me/TGFilmRobot)
-🧑‍💻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋: 𓊈Ｄｒ⚕️ ᴀᴅɪᴛʏᴀ𓊉 (https://t.me/Chiyaan_Dhruv)
+<a href="https://t.me/MalluFileStreamRoBot">🤖 𝖬𝗒 𝗇𝖺𝗆𝖾: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗋𝖾𝖺𝗆 𝖡𝗈𝗍</a>
+<a href="https://t.me/TGFilmRobot">📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒: 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</a>
+<a href="https://t.me/TGFilmRobot">🚀 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖢𝗅𝗈𝗎𝖽𝖿𝗅𝖺𝗋𝖾</a>
+<a href="https://t.me/TGFilmRobot">📝 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾: 𝖯𝗒𝗍𝗁𝗈𝗇3</a>
+<a href="https://t.me/TGFilmRobot">💾 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾: 𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
+<a href="https://t.me/Chiyaan_Dhruv">🧑‍💻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋: 𓊈Ｄｒ⚕️ ᴀᴅɪᴛʏᴀ𓊉 </a>
 
 <b>Powered and Maintained By @MalluTorentzTG</b>
 """
