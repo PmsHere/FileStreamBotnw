@@ -51,7 +51,7 @@ class BUTTON(object):
     START_BUTTONS = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton('🌨Support', url=f'https://t.me/{Telegram.UPDATES_CHANNEL}'),
-            InlineKeyboardButton('⛅️Updates', url='https://t.me/MalluTorentzTG')]
+            InlineKeyboardButton('⛅️Updates', url='https://t.me/MalluTorentzTG')
         ],
         [
             InlineKeyboardButton('❗️Help', callback_data='help'),
